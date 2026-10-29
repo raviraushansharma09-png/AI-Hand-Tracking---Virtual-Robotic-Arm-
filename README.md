@@ -48,4 +48,4 @@ python main.py
 Computer Vision | Artificial Intelligence | Python
 
 ## Author
-Created as an AI and computer vision learning project.
+Created by RAVI SHARMA
